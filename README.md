@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sambreyer
-- 👀 I’m interested in ...
 - 🌱 I’m currently enrolled at The University of Minnesota
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email me @ samuel.breyer@gmail.com
 
 <!---
